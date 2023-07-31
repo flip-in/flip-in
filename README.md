@@ -1,7 +1,14 @@
 ### Hi there 👋
+<a href="https://github.com/flip-in">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flip-in&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=F8D866" height="147px" />
+</a>
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=flip-in)](https://github.com/flip-in/)
+<a href="https://github.com/flip-in">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flip-in&theme=tokyonight_duo&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1117" width="370px" />
+</a>
+
 <!--
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=flip-in)](https://github.com/flip-in/)
 **flip-in/flip-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
