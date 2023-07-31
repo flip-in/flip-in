@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Will. I'm a developer.
+
 <a href="https://github.com/flip-in">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flip-in&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=F8D866" height="147px" />
 </a>
