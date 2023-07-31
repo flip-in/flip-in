@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=flip-in)](https://github.com/flip-in/github-readme-stats)
 <!--
 **flip-in/flip-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
